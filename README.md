@@ -7,7 +7,7 @@
 www.linkedin.com/in/ana-maria-ruiz-a474b02b4
 
 ### 👩🏻‍🔬 Sobre mí
-- Bioingeniera y QA & Validation Managment Analyst
+- Bioingeniera | QA & Validation Managment Analyst
 - Me apasiona el análisis de datos y la automatización de procesos.
 - Con experiencia en control de documentos, calidad y SAP.
 
