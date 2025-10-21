@@ -1,7 +1,7 @@
-### Ana María Ruiz Fonseca | Quality Assurance & Bioengineering
+### Ana María Ruiz Fonseca | Bioengineering
 
 <div align="center">
-  <img src="https://github.com/tu_usuario/tu_repositorio/blob/main/banner.png" width="800"/>
+  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/58e64c48-6751-4e3c-a13c-306d66a53ab5" />
 </div>
 
 www.linkedin.com/in/ana-maria-ruiz-a474b02b4
