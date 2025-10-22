@@ -12,7 +12,7 @@ www.linkedin.com/in/ana-maria-ruiz-a474b02b4
 - Con experiencia en control de documentos, calidad y SAP.
 
 ### 🧰 Lenguajes y herramientas
-Python • SQL • Power BI • Excel • JIRA • SAP • Visual Studio Code • Matlab • MS Office
+Python • SQL • Power BI • Excel • SAP • Visual Studio Code • Matlab • MS Office
 
 ### 🌎 Idiomas
 Inglés C1
