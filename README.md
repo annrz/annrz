@@ -15,4 +15,4 @@ www.linkedin.com/in/ana-maria-ruiz-a474b02b4
 Python • SQL • Power BI • Excel • SAP • Visual Studio Code • Matlab • MS Office
 
 ### 🌎 Idiomas
-Inglés C1
+Inglés B2
