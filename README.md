@@ -1,7 +1,7 @@
 ### Ana María Ruiz Fonseca | Bioengineering
 
 <div align="center">
-  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/58e64c48-6751-4e3c-a13c-306d66a53ab5" />
+  <img width="1584" height="396" alt="portadaLin" src="https://github.com/user-attachments/assets/e77ee316-4597-4c41-afa4-e206d725dc8a" />
 </div>
 
 www.linkedin.com/in/ana-maria-ruiz-a474b02b4
